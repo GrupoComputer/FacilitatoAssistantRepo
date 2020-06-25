@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AkxhHn2oXxQVsVRn3zzqVJp+3r/e4wXKbDPiSRI9Rzo/JDeVHtwxmktRDng0eunbhSeDMfbaEKIngCx/DtRonw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JeffrySantiago\\Desktop\\xamarin c\\FacilitatoAssistantRepo\\GitRepoEjemplo\\GitRepoEjemplo.iOS\\GitRepoEjemplo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JeffrySantiago\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
